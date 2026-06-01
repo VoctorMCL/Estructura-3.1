@@ -22,20 +22,20 @@ El código fuente principal con toda la lógica del programa se encuentra en la 
 
 A continuación se muestran las pruebas de ejecución del sistema, demostrando las operaciones de ingreso, consulta, retiro y manejo de errores:
 
-### Captura 1: Ingreso de contenedores y validación de áreas
+### Imagen 1: Ingreso de contenedores y validación de áreas
 ![Ingreso](img/captura1.png)
 
-### Captura 2: Consulta del tope de la pila
+### Imagen 2: Consulta del tope de la pila
 ![Consulta](img/captura2.png)
 
-### Captura 3: Retiro de contenedor (Acceso LIFO)
+### Imagen 3: Retiro de contenedor (Acceso LIFO)
 ![Retiro](img/captura3.png)
 
-### Captura 4: Visualización de historiales
+### Imagenes 4 y 5: Visualización de historiales
 ![Historial](img/captura4.png)
 ![Historial2](img/captura5.png)
 
-### Captura 5: Validación de depósito vacío
+### Imagenes 6 y 7: Validaciones
 ![Validacion](img/captura6.png)
 ![Validacion2](img/captura7.png)
 
